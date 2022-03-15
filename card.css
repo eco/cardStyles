@@ -1,6 +1,3 @@
-* {
-  font-family: Founders Grotesk;
-}
 #card::before {
   content: '\a';
   white-space: pre;
